@@ -1,9 +1,10 @@
+Clona el repositorio y trabaja en GitHub.
+
 # Configuración de GitHub Actions
 
-1. En la raíz del proyecto, crea la ruta `.github/workflows/`.
-2. Dentro, crea el archivo `test_calculator.yml`.
-3. Copia y pega el contenido del workflow YAML proporcionado.
-4. Haz commit y push de los cambios.
+1. En la raíz del proyecto, crea el archivo `.github/workflows/test_calculator.yml`.
+2. Copia y pega el contenido del workflow YAML proporcionado.
+3. Haz commit y push de los cambios.
 
 ## ¿Qué hace este workflow?
 
