@@ -1,4 +1,4 @@
-Clona el repositorio y trabaja en GitHub.
+Haz fork del repositorio y trabaja en GitHub.
 
 # Configuración de GitHub Actions
 
